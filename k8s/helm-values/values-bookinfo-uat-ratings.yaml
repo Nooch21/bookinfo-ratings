@@ -1,6 +1,6 @@
 ratings:
   namespace: student47-bookinfo-uat
-  image: ghcr.io/nooch21/bookinfo-ratings:uat
+  image: ghcr.io/nooch21/bookinfo-ratings
   tag: uat
   replicas: 1
   imagePullSecrets: registry-bookinfo
